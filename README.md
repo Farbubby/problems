@@ -1,0 +1,1 @@
+Solving several problems with any techniques/algorithms
